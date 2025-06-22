@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- High Perpormance Ratings, 2023.
 
-- First-prize Scholarship of CUMT, 2024.
+- High Perpormance Ratings, 2022.
 
-- First-prize Scholarship of CUMT, 2023.
+- High Perpormance Ratings, 2021.
 
-- Freshman Scholarship of CUMT, 2022.
+- Top Perpormance Ratings, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Excellent Graduation , 2016.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Second-prize Scholarship of HUST WenHua, 2015.
 
-- First-prize Scholarship of CUMT, 2019.
+- Second-prize Scholarship of HUST WenHua, 2014.
