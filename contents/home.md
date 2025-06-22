@@ -5,7 +5,7 @@
 She hold a Master's in Business Information Systems in City University of Hong Kong and professional experience at PwC. Now seek to pursue a PhD.
 
 #### Email
-jean.leezenz[at]gmail.com
+jean.leezenz@gmail.com
 
 #### Education
 M.E., Business Information Sytems, City University of Hong Kong, 2016—2017 (expected).\
