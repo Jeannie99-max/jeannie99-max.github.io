@@ -2,7 +2,8 @@
 
 [![Jeannie99-max](https://img.shields.io/badge/Jeannie99-max-github-blue?logo=github)](https://github.com/Jeannie99-max)
 
-She hold a Master's in Business Information Systems in City University of Hong Kong and professional experience at PwC. Now seek to pursue a PhD.
+
+She hold a Master's in Business Information Systems and a Bachelor's in International Trade, with professional experience at PwC.
 
 #### Email
 jean.leezenz@gmail.com
