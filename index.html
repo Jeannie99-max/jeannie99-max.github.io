@@ -171,6 +171,15 @@
             </div>
         </div>
     </footer>
+    
+<script>
+    fetch('certifications.md')
+        .then(response => response.text())
+        .then(text => {
+            document.getElementById('certifications-md').innerHTML = marked.parse(text);
+        })
+        .catch(error => console.error('Error loading certifications.md:', error));
+</script>
 
 </body>
 
