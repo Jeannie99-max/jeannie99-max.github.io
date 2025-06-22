@@ -9,7 +9,7 @@ She hold a Master's in Business Information Systems and a Bachelor's in Internat
 jean.leezenz@gmail.com
 
 #### Education
-M.E., Business Information Sytems, City University of Hong Kong, 2016—2017 (expected).\
+M.E., Business Information Sytems, City University of Hong Kong, 2016—2017.\
 B.E., Internation Trade and Economics, Huazhong University of Science and Technology, Wen Hua College 2012—2016.
 
 #### Research Interests
